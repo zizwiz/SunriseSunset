@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/SunriseSunset/bin/Debug
+/SunriseSunset/obj/Debug
+/SunriseSunset/obj/Release
+/SunriseSunset/bin/Release
