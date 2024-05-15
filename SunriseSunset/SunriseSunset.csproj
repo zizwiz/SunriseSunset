@@ -49,6 +49,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BSTorGMT.cs" />
     <Compile Include="common_data\airport_data.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
